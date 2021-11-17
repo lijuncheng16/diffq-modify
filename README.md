@@ -1,4 +1,5 @@
-# Differentiable Model Compression via Pseudo Quantization Noise
+#Differentiable Model Compression via Pseudo Quantization Noise
+replicated by Zheng, Billy
 ![linter badge](https://github.com/facebookresearch/diffq/workflows/linter/badge.svg)
 ![tests badge](https://github.com/facebookresearch/diffq/workflows/tests/badge.svg)
 ![cov badge](https://github.com/facebookresearch/diffq/workflows/cov%3E90%25/badge.svg)
